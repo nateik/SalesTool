@@ -14,7 +14,8 @@ public class Main {
 		System.out.println("FEEDBACK FROM SALES DATA");
 		System.out.println("Test 22");
 		
-		System.out.println("Test for git change using command line");
+		System.out.println("Test for git change using command line");	
+		System.out.println("Test for git commit using command line");
 	}
 
 }
