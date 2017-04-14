@@ -12,6 +12,7 @@ public class Main {
 	public static void displayMessage() {
 		System.out.println("INFO ON SALES DATA");
 		System.out.println("FEEDBACK FROM SALES DATA");
+		System.out.println("Test 22");
 	}
 
 }
